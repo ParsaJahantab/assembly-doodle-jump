@@ -25,6 +25,8 @@ This project is a unique implementation of **Doodle Jump** written in **8086 ass
 6. Avoid **insects** that will end the game if touched.
 7. The goal is to survive as long as possible while going higher!
 
+![](https://github.com/ParsaJahantab/assembly-doodle-jump/blob/main/doodle.gif)
+
 ## 📋 Controls
 
 - **A/D keys**: Move the ball left or right.
